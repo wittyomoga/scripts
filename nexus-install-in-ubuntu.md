@@ -79,7 +79,5 @@ run cat /opt/sonatype-work/nexus3/admin.password in your nexus server.
 
 wget --user=<nexux username> --password=<password> <nexus artifact url (war/ear)>
 
-wget --user=admin --password=admin http://35.184.138.42:8081/repository/maven-snapshots/awstechguide/spring-webapp/1.0.0-SNAPSHOT/spring-webapp-1.0.0-20200703.145607-1.WAR
-
 
 
