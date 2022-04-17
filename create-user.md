@@ -11,3 +11,4 @@ useradd -d /home/awstechguide -m awstechguide
 
 passwd awstechguide
 passwd -x -1 awstechguide
+
