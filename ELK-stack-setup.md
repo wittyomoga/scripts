@@ -73,3 +73,4 @@
 
     systemctl enable elasticsearch
     systemctl enable kibana
+    
