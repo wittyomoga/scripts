@@ -34,7 +34,3 @@ localhost:9200/_cat/_indices
 
 `` search in elasticsearch 
 localhost:9200/<index name>/_search
-
-
-
-
