@@ -21,3 +21,4 @@ sudo ./aws/install
 ``Run the AWS s3 cp command to copy the files to the S3 bucket``
 
 aws s3 cp copy.zip s3://<s3bucket_name>
+
