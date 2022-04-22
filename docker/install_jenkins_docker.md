@@ -15,3 +15,5 @@ docker volumn ls
 
 # run jenkins image and map to docker volume
 docker run -p 8080:8080 -p 50000:50000 -v jenkins:/var/jenkins_home jenkins
+
+
