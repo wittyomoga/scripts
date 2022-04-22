@@ -49,3 +49,4 @@ ng build --prod
 
 When application is built for production mode then environments/environment.ts file gets replaced with environments/environment.prod.ts file. Hence if you are referring to settings from environment.ts file in your code, you don’t have to put any if condition or hard code production URL.
 
+
