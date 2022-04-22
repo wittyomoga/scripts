@@ -42,3 +42,5 @@
         dest: /usr/local/tomcat/webapps/host-manager/META-INF/context.xml
     - name: Starting tomcat
       shell: nohup /usr/local/tomcat/bin/startup.sh &
+      
+      
