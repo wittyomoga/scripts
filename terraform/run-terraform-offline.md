@@ -67,6 +67,5 @@ Setup env variables as follows
   and run terraform init in your working directory. 
   If you have followed ablove steps properly, terraform init will pull the package from "tf_cache" to your working directory. It will NOT look for pulling from internet terraform registry. 
   
-  A video tutorial will be published shortly here https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos
-  if interested join us at https://e2esolutionarchitect.com/
+  Let me know if you face any challenges
   
